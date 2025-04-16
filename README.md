@@ -8,7 +8,10 @@ Versatile Developer & 3D in my spare time.
 
 💻 My Journey: I’ve been coding since I was 12. It was my way of taking back control when everything else was going sideways. I started with a bit of everything — websites 🌐, automation scripts 💻, little Python games 🐍... At 14, I got into cybersecurity 🛡️. Ethical hacking instantly grabbed me. I started writing my own scripts, digging deeper, learning nonstop — and loving every bit of it. I joined a school in the field, but had to leave a year later — a mix of things: mental health stuff, a bad incident with a classmate, personal reasons... and yeah, an ex too ☢️. 
 
-🤖 Discord & Downfall: I worked on a Discord server where I was in charge of managing the bot. But from day one, the boss (☢️), who was also my ex, messed everything up. He drained my time, my energy, and my mental strength. I felt trapped in a kind of mental prison, unable to focus on my own projects. He wore me down to the point where I lost all motivation. Since he banned me on January 24th, 2025... I can finally breathe again, even though I still carry some scars from it. Now I’m back to what I truly love: dev. I’m no longer a full-time gamer... I’m a full-hearted developer. 💖
+🤖 Discord & Downfall: I worked on a Discord server where I was in charge of managing the bot. But from day one, the boss (☢️), who was also my ex, messed everything up. He drained my time, my energy, and my mental strength. I felt trapped in a kind of mental prison, unable to focus on my own projects. He wore me down to the point where I lost all motivation. Since he banned me on January 24th, 2025... I can finally breathe again, even though I still carry some scars from it. Now I’m back to what I truly love: dev. 
+
+I’m no longer a full-time gamer... 
+I’m a full-hearted developer. 💖
 
 * 🌍  I'm based in France
 * 🤝  I'm open to collaborating on anything I enjoy or where I can help out!
